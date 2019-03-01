@@ -1,7 +1,7 @@
 ---
 title: "об Адыгах"
 author: "Г. Мороз"
-date: "1 марта 2019"
+date: "1 марта 2019 <br> Презентация доступна здесь <br> tinyurl.com/y3donful"
 output: slidy_presentation
 knit: (function(inputFile, encoding) { 
       out_dir <- 'docs';
@@ -18,9 +18,17 @@ slides > slide {
 }
 </style>
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+## Ранние поселения
 
-## Где?
+Существуют несколько следов жизни на территории расселения адыгов.
 
+* некоторые халколитические поселения 5000-4000 гг. до н. э.
+* майкопская культура 4000-3500 гг. до н. э.
+* дольменная культура 3000-2000 гг. до н. э.
+
+## Ранние поселения
+
+![](images/01_Dolmen_Russia_Kavkaz_Jane.jpg)
+Дольмен из долины реки Жане (Wikipedia)
+
+## Пишите письма! <br><br><br><br> agricolamz@gmail.com <br><br><br><br> tinyurl.com/y3donful
