@@ -1,0 +1,26 @@
+---
+title: "об Адыгах"
+author: "Г. Мороз"
+date: "1 марта 2019"
+output: slidy_presentation
+knit: (function(inputFile, encoding) { 
+      out_dir <- 'docs';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, 'index.html')) })
+editor_options: 
+  chunk_output_type: console
+---
+
+<style>
+slides > slide {
+  font-family: "Brill", Brill, serif;
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Где?
+
